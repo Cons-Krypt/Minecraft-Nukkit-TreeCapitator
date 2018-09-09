@@ -1,7 +1,7 @@
 # Minecraft-Nukkit-TreeCapitator
 The plugin TreeCapitator for Nukkit lets you cut down trees by a few hits
 
-Данный плагин позволит вам рубить деревья разом! Поддерживаются все дервья, включая тропическую секвойю и темный дуб.
+This plugin allows you to chop trees at once! All trees are supported , including tropical sequoia and dark oak.
 
 ![alt text](http://file-minecraft.com/wp-content/uploads/2014/07/Tree-Capitator-Mod.jpg)
 
